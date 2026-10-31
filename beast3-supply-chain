@@ -1,0 +1,25 @@
+beast3-supply-chain/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── docs/
+│   ├── logistics-charter.md
+│   ├── asset-provenance.md
+│   └── dispatch-protocols.md
+│
+├── src/
+│   ├── core/
+│   │   ├── AssetProvenance.ts
+│   │   └── LogisticsTracker.ts
+│   │
+│   ├── api/
+│   │   └── supplyChain.ts
+│   │
+│   └── app/
+│       ├── layout.tsx
+│       └── page.tsx
+│
+└── public/
+    └── logo.png
