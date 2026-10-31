@@ -1,0 +1,24 @@
+# Beast 3.0 Supply Chain & Logistics Division
+
+The Supply Chain & Logistics Division oversees the verifiable tracking, custody transfer, and provenance validation of all physical and digital resources distributed across the Beast 3.0 ecosystem.
+
+## Mission
+
+Ensure transparent, tamper-proof asset accountability from source generation to final deployment or member delivery.
+
+## Core Responsibilities
+
+- Asset Provenance & Lifecycle Tracking
+- Custody Chain Verification
+- Logistics Dispatch & Shipment Routing
+- Integration with Resource Allocation & Treasury
+
+## Connected Systems
+
+- Resource Allocation Division (`div-06-resource-alloc`)
+- Treasury & Revenue Division (`beast3-treasury-revenue`)
+- Judicial & Audit Division (`div-03-judicial`)
+
+## Status
+
+Development
